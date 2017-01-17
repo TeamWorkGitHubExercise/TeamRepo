@@ -1,0 +1,3 @@
+name = Ivo
+size = 150
+email = stradjazz1973@gmail.com
