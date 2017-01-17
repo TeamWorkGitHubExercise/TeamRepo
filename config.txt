@@ -1,4 +1,4 @@
-name = Ivo;
+name = Ivaylo;
 size = 100;
 email = stradjazz1973@gmail.com;
 phoneNumber = 0888 888888;
