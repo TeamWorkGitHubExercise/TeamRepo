@@ -1,5 +1,4 @@
 # TeamRepo
 Repository for TeamWork exersice 
-Zdraveite SoftUniOnliners!
-Zdraveite virtual Ninjas... :)
+Zdraveite SoftUniOnliners Ninjas...! :)
 ///
