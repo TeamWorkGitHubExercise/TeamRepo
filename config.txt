@@ -1,16 +1,16 @@
-name = Ivaylo;
-size = 100;
-email = stradjazz1973@gmail.com;
-phoneNumber = 0888 888888;
-GitHub profile = TriteXXX;
-name = Ivo
-size = 100
-email = stradjazz1973@gmail.com
-phoneNumber = 0888888888
 
+name = Vladimir
 name = Miroslav
-size = 333
-serialNum = 029401234
 
-name = Monika
-email = monikabv98@gmail.com
+size = 150
+
+email = stradjazz1973@gmail.com
+
+
+name = Kenan
+size = 100
+e-mail = stradjazz1973@gmail.com
+
+ff90e223a306c22ce1fc404cb0eaa3cf9f73c221
+
+
