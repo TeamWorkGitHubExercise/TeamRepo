@@ -1,2 +1,3 @@
 Hello group!
 I made a first stap in GitHub. :)
+Hi Vlado
