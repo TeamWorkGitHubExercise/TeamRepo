@@ -1,5 +1,5 @@
 
-name = Ivo
+name = Vladimir
 
 size = 150
 
