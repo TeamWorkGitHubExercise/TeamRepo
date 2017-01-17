@@ -10,3 +10,7 @@ size = 100
 e-mail = stradjazz1973@gmail.com
 
 ff90e223a306c22ce1fc404cb0eaa3cf9f73c221
+
+Name = Kenan
+size = 100
+e-mail = knm1988@gmail.com
