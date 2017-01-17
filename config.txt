@@ -1,4 +1,5 @@
-name = Ivo
-size = 100
-email = stradjazz1973@gmail.com
-phoneNumber = 0888888888
+name = Ivo;
+size = 100;
+email = stradjazz1973@gmail.com;
+phoneNumber = 0888 888888;
+GitHub profile = TriteXXX;
