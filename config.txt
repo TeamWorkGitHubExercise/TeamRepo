@@ -1,15 +1,1 @@
-Name = Georgi
-name = Vladimir
-name = Miroslav
-
-size = 150
-
-email = stradjazz1973@gmail.com
-
-
-name = Kenan
-size = 100
-e-mail = stradjazz1973@gmail.com
-
-ff90e223a306c22ce1fc404cb0eaa3cf9f73c221
-
+N
