@@ -1,0 +1,6 @@
+name = Kenan
+name = Georgi
+name = Vladimir
+name = Miroslav
+size = 100
+e-mail = knm1988@gmail.com
