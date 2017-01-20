@@ -3,5 +3,6 @@ name = Georgi
 name = Vladimir
 name = Greta
 name = Miroslav
+name = G.Drunin
 size = 100
 e-mail = knm1988@gmail.com
